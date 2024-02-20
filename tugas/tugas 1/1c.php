@@ -15,7 +15,7 @@
             display: inline-flex;
             justify-content: center;
             align-items: center;
-            background-color: brown;
+            background-color: pink;
             color: white;
             font-size: 30px;
             border: 1px solid black;

@@ -13,7 +13,7 @@ $v2 = "Bundar";
 <body>
     <h2>
         <i>
-        <?php echo '"'. $v1 . " " . "saya" . " " . $v2 . " " . $v1 . "saya." . '"' ?>
+        <?php echo '"'. $v1 . " " . "saya" . " " . $v2 . ", " . $v2 . " " . $v1 . " saya" . '"' ?>
         </i>
     </h2>
 </body>

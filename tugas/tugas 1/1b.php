@@ -21,5 +21,5 @@ echo "Jika aku ditambah 75, maka aku sekarang menjadi <b>$hasilTambah</b> </br>"
 
 $hasilKurang = $x - 20;
 
-echo "Jika aku dikurang 20, maka aku sekarang menjadi <b>$hasilkurang</b> </br>";
+echo "Jika aku dikurang 20, maka aku sekarang menjadi <b>$hasilKurang</b> </br>";
 ?>
